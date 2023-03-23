@@ -14,7 +14,7 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
-    text-decoration: underline;
+   
 }
 
 .header h1 {
@@ -41,6 +41,10 @@ body {
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
+}
+
+.header nav ul li a {
+    text-decoration: underline;
 }
 
 a {
@@ -75,6 +79,11 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+}
+
+p {
+    line-height: 1.6;
+    letter-spacing: .5px;
 }
 
 .benefits {

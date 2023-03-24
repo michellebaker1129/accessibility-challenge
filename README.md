@@ -20,17 +20,11 @@ I learned that there are even more ways to make websites more accessible! I was 
 * I discovered that a line height of at least 1.6 is easiest for sighted viewers, and so is a bit more space around each letter, so I fixed these right up.
 * It can be hard to know which elements are links for some viewers, so I added underline styling to the navigation links. 
 * Some fonts are easier on the eyes for sighted readers, so I changed teh font family to "Ariel, Helvetica, san-serif" which was recomended by most websites I referenced.
- 
 
 
-## Table of Contents (Optional)
+This is how my work looks now 
 
-If your README is very long, add a table of contents to make it easy for users to find what they need.
-
-* [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
+![website after my work](assets/readme-image-after.png)
 
 
 ## Installation

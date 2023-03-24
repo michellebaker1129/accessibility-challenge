@@ -28,17 +28,15 @@ Technology used
 
 ## Installation & Usage
 
-To use this, all you need to do is click this link: 
+To use this, all you need to do is click this link: [https://michellebaker1129.github.io/accessibility-challenge/](https://michellebaker1129.github.io/accessibility-challenge/)]
 
-[https://michellebaker1129.github.io/accessibility-challenge/](https://michellebaker1129.github.io/accessibility-challenge/)]
+And you can see my work here [https://github.com/michellebaker1129/accessibility-challenge](https://github.com/michellebaker1129/accessibility-challenge)
 
-And my [https://github.com/michellebaker1129/accessibility-challenge](https://github.com/michellebaker1129/accessibility-challenge)
-
-This shows my work
+This shows the page after my refactoring.
 
 ![website after my work](https://github.com/michellebaker1129/accessibility-challenge/blob/main/Develop/assets/images/readme-image-before.png?raw=true)
 
-And this is how it looked before
+And this is how it looked before.
 
 ![website after my work](https://github.com/michellebaker1129/accessibility-challenge/blob/main/Develop/assets/images/readme-image-after.png?raw=true)
 

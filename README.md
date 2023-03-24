@@ -36,7 +36,7 @@ And my [https://github.com/michellebaker1129/accessibility-challenge](https://gi
 
 This shows my work
 
-![website after my work](develop/assets/images/readme-image-after.png)
+![website after my work](./develop/assets/images/readme-image-after.png)
 
 And this is how it looked before
 

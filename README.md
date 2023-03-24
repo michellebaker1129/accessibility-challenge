@@ -21,35 +21,39 @@ I learned that there are even more ways to make websites more accessible! I was 
 * It can be hard to know which elements are links for some viewers, so I added underline styling to the navigation links. 
 * Some fonts are easier on the eyes for sighted readers, so I changed teh font family to "Ariel, Helvetica, san-serif" which was recomended by most websites I referenced.
 
+Technology used
+* HTML
+* CSS
+* GitHub
 
-This is how my work looks now 
+## Installation & Usage
+
+To use this, all you need to do is click this link: 
+
+--LINK GOES HERE`
+
+This shows my work
 
 ![website after my work](assets/readme-image-after.png)
 
+And this is how it looked before
 
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
-
-## Usage 
-
-Provide instructions and examples for use. Include screenshots as needed. 
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-```md
-![alt text](assets/images/screenshot.png)
-```
-
+![website after my work](assets/readme-image-before.png)
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+I've learned everything I know from 
+* Berkeley Coding Boot Camp https://bootcamp.berkeley.edu/codingbootcamp/officialsite 
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+I relied heavily on 
+* W3Schools Online Web Tutorials https://www.w3schools.com
+* MDN Web Docshttps://developer.mozilla.org
+- Siteimprove Accessibility Checker https://chrome.google.com/webstore/detail/siteimprove-accessibility/djcglbmbegflehmbfleechkjhmedcopn/related?hl=en
+- WAVE Chrome, Firefox, and Edge Extensionshttps://wave.webaim.org › extension
 
-If you followed tutorials, include links to those here as well.
+And I studied with the best learning partners
+- Jedd's GitHub
+- Sean's GitHub
 
 
 ## License

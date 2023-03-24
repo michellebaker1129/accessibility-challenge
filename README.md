@@ -2,12 +2,22 @@
 
 ## Time to make this website more accessible! 
 
-Horiseon wants me to help them show off how good they are at search engine optimization. 
+Horiseon, a marketing agency, wants a codebase that follows accessibility standards so that their site is optimized for search engines. 
 
 Great news! I've been learning about refactoring websites for better accessibility, and I made a few updates to the code which I hope they like.
 
 I updated so many things
+* When I viewed the source code, I found most HTML elements were generic. I updated these to follow semantic conventions.
+* When I viewed the structure of the HTML elements, I found that logical structure was hard to follow without seeing the styling and positioning, so I grouped elements logically and used ARIA attributes.
+* When I veiwed the image elements, I did not find accessible alt attributes, so I added some crisp descriptions of the images. 
+* When I viewed the heading attributes, I realized they did not fall in sequential order. This was an easy fix, I just changed the <h2> in the footer to <h4> in the .html and .css files.
+* When I viewed the title element, I found that I needed to update the text to a consise, more descriptive title. 
+ 
+I learned that there are even more ways to make websites more accessible! I was able to address a few extra concerns that horiseon didn't even realise could help. 
+* I updated contrast ratio between the text and the background by in teh sidebar section. 
+* Where there were icons I used aria-hidden='true' so that web readers would not get bogged down.
 * 
+
 
       Your GitHub profile is an extremely important aspect of your public identity as a developer. A well-crafted one allows you to show off your work to other developers as well as potential employers. An important component of your GitHub profile—and one that many new developers often overlook—is the README.md file.
 

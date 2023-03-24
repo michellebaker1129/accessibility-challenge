@@ -1,6 +1,6 @@
 # Refactoring Challenge
 
-## Time to make this website more accessible! 
+## Horiseon needs help! 
 
 Horiseon, a marketing agency, wants a codebase that follows accessibility standards so that their site is optimized for search engines. 
 
@@ -10,7 +10,7 @@ I updated so many things
 * When I viewed the source code, I found most HTML elements were generic. I updated these to follow semantic conventions.
 * When I viewed the structure of the HTML elements, I found that logical structure was hard to follow without seeing the styling and positioning, so I grouped elements logically and used ARIA attributes.
 * When I veiwed the image elements, I did not find accessible alt attributes, so I added some crisp descriptions of the images. 
-* When I viewed the heading attributes, I realized they did not fall in sequential order. This was an easy fix, I just changed the <h2> in the footer to <h4> in the .html and .css files.
+* When I viewed the heading attributes, I realized they did not fall in sequential order. This was an easy fix, I just changed the h2 in the footer to h4 in the .html and .css files.
 * When I viewed the title element, I found that I needed to update the text to a consise, more descriptive title. 
  
 I learned that there are even more ways to make websites more accessible! I was able to address a few extra concerns that horiseon didn't even realise could help. 
@@ -32,6 +32,8 @@ To use this, all you need to do is click this link:
 
 --LINK GOES HERE`
 
+And my [https://github.com/michellebaker1129/accessibility-challenge](https://github.com/michellebaker1129/accessibility-challenge)
+
 This shows my work
 
 ![website after my work](assets/readme-image-after.png)
@@ -48,14 +50,35 @@ I've learned everything I know from
 I relied heavily on 
 * W3Schools Online Web Tutorials https://www.w3schools.com
 * MDN Web Docshttps://developer.mozilla.org
-- Siteimprove Accessibility Checker https://chrome.google.com/webstore/detail/siteimprove-accessibility/djcglbmbegflehmbfleechkjhmedcopn/related?hl=en
-- WAVE Chrome, Firefox, and Edge Extensions https://wave.webaim.org › extension 
+* Siteimprove Accessibility Checker https://chrome.google.com/webstore/detail/siteimprove-accessibility/djcglbmbegflehmbfleechkjhmedcopn/related?hl=en
+* WAVE Chrome, Firefox, and Edge Extensions https://wave.webaim.org › extension 
 
 And I studied with the best learning partners
-- [https://github.com/jeppjeppjepp0](https://github.com/jeppjeppjepp0)
-- Sean's GitHub link will go here
+* Jedd Javier [https://github.com/jeppjeppjepp0](https://github.com/jeppjeppjepp0)
 
 
 ## License
 
 [LISCENSE.md](LISCENSE.md)
+
+MIT License
+
+Copyright (c) [2023] [TiaBakerBrown]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

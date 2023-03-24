@@ -52,13 +52,13 @@ I relied heavily on
 - WAVE Chrome, Firefox, and Edge Extensionshttps://wave.webaim.org › extension
 
 And I studied with the best learning partners
-- Jedd's GitHub
-- Sean's GitHub
+- Jedd's GitHub link will go here
+- Sean's GitHub link will go here
 
 
 ## License
 
-The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
+The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](CHANGELOG.md)
 
 
 ---
